@@ -1,6 +1,6 @@
-local util = require '__rusty-locale__.util'
-local prototypes = require '__rusty-locale__.prototypes'
-local recipes = require '__rusty-locale__.recipes'
+local util = require '__rusty-locale-updated__.util'
+local prototypes = require '__rusty-locale-updated__.prototypes'
+local recipes = require '__rusty-locale-updated__.recipes'
 
 
 local _M = {}

@@ -1,8 +1,8 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.17
-Date: 27. 10. 2024
+Version: 1.0.0
+Date: 2026-11-12
   Changes:
-    - Quick and dirty update for factorio 2.0
+    - This fork provides the library under a separate Factorio 2.1.24 mod ID. Install it when a dependent mod requires it.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.16
 Date: 18. 12. 2020

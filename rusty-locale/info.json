@@ -1,9 +1,15 @@
 {
-	"name": "rusty-locale",
-	"version": "1.0.17",
-	"factorio_version": "2.0",
-	"title": "Rusty's Locale Utilities",
-	"author": "TheRustyKnife",
-	"description": "A set of helper functions for resolving proper localised names and descriptions of prototypes, including recipes and items. There are also utilities for resolving prototype icons, because why not?",
-	"dependencies": []
+  "name": "rusty-locale-updated",
+  "version": "1.0.0",
+  "factorio_version": "2.1",
+  "title": "Rusty's Locale Utilities: Updated",
+  "author": "TheRustyKnife; FactorioMods (Factorio 2.1 port)",
+  "description": "Factorio 2.1 compatibility fork of rusty-locale. A set of helper functions for resolving proper localised names and descriptions of prototypes, including recipes and items. There are also utilities for resolving prototype icons, because why not?",
+  "dependencies": [
+    "base >= 2.1.24",
+    "! rusty-locale"
+  ],
+  "migrates_from": [
+    "rusty-locale"
+  ]
 }

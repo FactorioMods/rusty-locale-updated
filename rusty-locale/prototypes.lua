@@ -1,4 +1,4 @@
-local hierarchy = require '__rusty-locale__.type-hierarchy'
+local hierarchy = require '__rusty-locale-updated__.type-hierarchy'
 
 
 local _M = {}
